@@ -14,7 +14,7 @@ Check is done by the compiler cobc (aka GnuCOBOL https://sourceforge.net/project
 
 - you write your code in cobol
 - when you save your code, the plugin run cobc and get the result
-- if there compile error, errors are displayed in the location list and a signs are placed beside lines with errors
+- if there compile error, errors are displayed in the location list and signs are placed beside lines with errors
 - the focus is given on the first line that contains an error
 
 ## Installation
