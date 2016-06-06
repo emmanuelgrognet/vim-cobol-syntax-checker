@@ -10,6 +10,10 @@ Free and strict cobol syntax are supported.
 
 Check is done by the compiler cobc (aka GnuCOBOL https://sourceforge.net/projects/open-cobol/).
 
+## Screenshot
+
+![vim-cobol-syntax-checker in action](assets/vim-cobol-syntax-checker.png)
+
 ## How it work ?
 
 - you write your code in cobol
