@@ -30,3 +30,29 @@ Check is done by the compiler cobc (aka GnuCOBOL https://sourceforge.net/project
     cd ~/.vim/bundle
 
     git clone https://github.com/emmanuelgrognet/vim-cobol-syntax-checker.git
+    
+## Configuration
+
+### Strict/Free Cobol syntax
+
+#### Free modern cobol syntax :
+
+    let g:cobol_syntax_checker_cobc_compiler_option = '-free'
+    
+#### Traditional old cobol syntax (default)
+
+    let g:cobol_syntax_checker_cobc_compiler_option = ''
+    
+### Check syntax when open cobol file (default)
+
+    let g:cobol_syntax_checker_check_on_read = 1
+    
+### Check syntax when save cobol file (default)
+
+    let g:cobol_syntax_checker_check_on_write = 1 
+    
+### Auto open/close location list (default)
+
+    let g:cobol_syntax_checker_loc_auto_open_close = 1
+    
+
