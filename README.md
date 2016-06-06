@@ -1,12 +1,17 @@
 # vim-cobol-syntax-checker
 
 ## Introduction
+
 Vim-cobol-syntax-checker is a vim plugin for check cobol syntax.
+
 The plugin can check syntax on demand or automatically when file is save/open.
+
 Free and strict cobol syntax are supported.
+
 Check is done by the compiler cobc (aka GnuCOBOL https://sourceforge.net/projects/open-cobol/).
 
 ## How it work ?
+
 - you write your code in cobol
 - when you save your code, the plugin run cobc and get the result
 - if there compile error, errors are displayed in the location list and a signs are placed beside lines with errors
