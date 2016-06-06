@@ -22,6 +22,6 @@ Check is done by the compiler cobc (aka GnuCOBOL https://sourceforge.net/project
 
 ### Installation with pathogen
 
-``` cd ~/.vim/bundle
+    cd ~/.vim/bundle
 
-``` git clone https://github.com/emmanuelgrognet/vim-cobol-syntax-checker.git
+    git clone https://github.com/emmanuelgrognet/vim-cobol-syntax-checker.git
