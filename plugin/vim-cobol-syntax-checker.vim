@@ -1,7 +1,7 @@
 "=====================================================================================
 " Description: 	Cobol syntax checker
 " Maintener: 	Emmanuel Grognet <emmanuel AT grognet DOT fr>
-" License: 	Copyright (C) 2016 Emmauel Grognet
+" License: 	Copyright (C) 2016 Emmanuel Grognet
 "		This program is free software; you can redistribute it and/or
 "		modify it under the terms of the GNU General Public License
 "		as published by the Free Software Foundation; either version 2
